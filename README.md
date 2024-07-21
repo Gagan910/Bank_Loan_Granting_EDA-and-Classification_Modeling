@@ -63,5 +63,4 @@ The notebook begins with importing necessary libraries and reading the dataset. 
 ### How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone [https://github.com/Gagan910/Bank_Loan_Granting_EDA-and-Classification_Modeling]
