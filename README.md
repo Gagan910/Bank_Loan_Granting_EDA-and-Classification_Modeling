@@ -1,6 +1,6 @@
 # Bank Loan Granting: EDA and Classification Modeling
 
-This project involves an exploratory data analysis (EDA) and classification modeling for predicting bank loan granting. The notebook includes detailed steps for data cleaning, visualization, and building classification models.
+This project involves an exploratory data analysis (EDA) and classification modeling for predicting bank loan granting. The project includes detailed steps for data cleaning, visualization, and building classification models.
 
 ## Table of Contents
 1. [Libraries and Dataset](#libraries-and-dataset)
